@@ -1,0 +1,12 @@
+[project]
+name = "milo"
+version = "0.1.0"
+description = "Math Discord Bot"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "discord-py>=2.4.0",
+    "python-dotenv>=1.0.1",
+    "requests>=2.32.3",
+    "sympy>=1.13.3",
+]
